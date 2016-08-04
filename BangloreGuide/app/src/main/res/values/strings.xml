@@ -1,0 +1,251 @@
+<resources>
+    <string name="app_name">Banglore Guide</string>
+
+    <string name="placename">Airport</string>
+    <string name="addressname">Marathahlli</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_Museums">Museums</string>
+    <string name="category_Nature">Nature</string>
+    <string name="category_Shopping">Shopping</string>
+    <string name="category_Parks">Parks</string>
+
+    <string name="museum_one">Government Museum</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="museum_two">Kempegowda Museum</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="museum_three">Karnataka Folk Museum</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="museum_four">Gandhi Bhavan</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="museum_five">HAL Aerospace Museum</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="museum_six">Legends Motorcycle Museum</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="museum_seven">Law Museum</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="museum_eight">Philatelic Museum</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="museum_nine">NIMHANS Brain Museum </string>
+    <string name="museum_ten"> Indian Army</string>
+
+
+
+
+
+    <string name="museum_address_one">Halmidi inscription,Banglore</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="museum_address_two"> Yelahanka,Banglore</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="museum_address_three">campus at Kumara Park,Banglore</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="museum_address_four">Kumara Park,Banglore</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="museum_address_five">HAL,Banglore</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="museum_address_six">SK Prabhu,Banglore</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="museum_address_seven">Karnataka High Court,,Banglore</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="museum_address_eight">first floor of the Bangalore General Post Office,Banglore</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="museum_address_nine">NIMHANS,Banglore </string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="museum_address_ten"> Indian Army,Banglore</string>
+
+
+
+    <string name="nature_one">Dodda Alada Mara</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="nature_two">Bugle Rock </string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="nature_three">Thottikallu </string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="nature_four">Nandi Hills </string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="nature_five">Kaivara</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="nature_six">Tippagondanahalli Reservoir</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="nature_seven">Ulsoor Lake</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="nature_eight">Sankey tank</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="nature_nine">Hesaraghatta Lake</string>
+    <string name="nature_ten">Hebbal Lake</string>
+
+
+    <string name="nature_address_one">Ramohalli ,Banglore</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="nature_address_two"> Yelahanka,Banglore</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="nature_address_three">Basavanagudi,Banglore</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="nature_address_four">Kanakapura,Banglore</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="nature_address_five">Chikkaballapur.,Banglore</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="nature_address_six">SK Prabhu,Banglore</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="nature_address_seven">Karnataka High Court,,Banglore</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="nature_address_eight">Chikkaballapur,Banglore</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="nature_address_nine">Parvati temple,Banglore </string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="nature_address_ten"> Kumudavathi River,Banglore</string>
+
+
+    <string name="parks_one">Lumbini Gardens</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="parks_two">Wonderla </string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="parks_three">Innovative Film City </string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="parks_four">iplay </string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="parks_five">Fun World</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="parks_six">Snow City</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="parks_seven">Flight 4 </string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="parks_eight">Talk To The Hand</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="parks_nine">Fever Pitch Basecamp</string>
+    <string name="parks_ten">Breakout Escape Experience</string>
+
+
+    <string name="parks_address_one">Ramohalli ,Banglore</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="parks_address_two"> Yelahanka,Banglore</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="parks_address_three">Basavanagudi,Banglore</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="parks_address_four">Kanakapura,Banglore</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="parks_address_five">Chikkaballapur.,Banglore</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="parks_address_six">SK Prabhu,Banglore</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="parks_address_seven">Karnataka High Court,,Banglore</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="parks_address_eight">Chikkaballapur,Banglore</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="parks_address_nine">Parvati temple,Banglore </string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="parks_address_ten"> Kumudavathi River,Banglore</string>
+
+
+
+    <string name="shopping_one">Muthyalamaduvu</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="shopping_two">Kanva reservoir </string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="shopping_three">Mekedaatu</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="shopping_four">Melkote</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="shopping_five">Mysore </string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="shopping_six">Omthara Kala Kuteera</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="shopping_seven">Pyramid valley</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="shopping_eight">Ranganathittu</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="shopping_nine">Savandurga </string>
+    <string name="shopping_ten">Shivanasamudra Falls</string>
+
+    <string name="shopping_address_one">Ramohalli ,Banglore</string>
+
+    <!-- Vocabulary word for the number two [CHAR LIMIT=20] -->
+    <string name="shopping_address_two"> Yelahanka,Banglore</string>
+
+    <!-- Vocabulary word for the number three [CHAR LIMIT=20] -->
+    <string name="shopping_address_three">Basavanagudi,Banglore</string>
+
+    <!-- Vocabulary word for the number four [CHAR LIMIT=20] -->
+    <string name="shopping_address_four">Kanakapura,Banglore</string>
+
+    <!-- Vocabulary word for the number five [CHAR LIMIT=20] -->
+    <string name="shopping_address_five">Chikkaballapur.,Banglore</string>
+
+    <!-- Vocabulary word for the number six [CHAR LIMIT=20] -->
+    <string name="shopping_address_six">SK Prabhu,Banglore</string>
+
+    <!-- Vocabulary word for the number seven [CHAR LIMIT=20] -->
+    <string name="shopping_address_seven">Karnataka High Court,,Banglore</string>
+
+    <!-- Vocabulary word for the number eight [CHAR LIMIT=20] -->
+    <string name="shopping_address_eight">Chikkaballapur,Banglore</string>
+
+    <!-- Vocabulary word for the number nine [CHAR LIMIT=20] -->
+    <string name="shopping_address_nine">Parvati temple,Banglore </string>
+
+    <!-- Vocabulary word for the number ten [CHAR LIMIT=20] -->
+    <string name="shopping_address_ten"> Kumudavathi River,Banglore</string>
+
+
+</resources>
